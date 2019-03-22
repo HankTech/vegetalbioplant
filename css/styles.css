@@ -1,0 +1,71 @@
+.background-color{background: #1c0f0a;} 
+
+                                /*  hearder  */
+.navbar-default{
+    background: #1c0f0a;
+    border: 0px;
+    border-radius: 0;
+    z-index: 1000;}
+.texto-de-barra{
+    font-size: .93rem;}
+.sup{
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    margin-left: 0px;
+    margin-right: 0px}
+
+                                    /*  slider */
+.logo{
+    width: 185px;
+    height: 185px;}
+.texto-de-slider{
+    padding: 20px 100px;}
+.size-imagen{
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat}
+.inferior-slider{
+    position: relative;
+    margin-bottom: -40px;
+    padding-top: 40px;
+    padding-bottom: 40px;}
+
+                  /* circulos del slider */
+.circulo{
+    height: 174px;
+    width: 174px;
+    padding: 10px;}
+
+.circulo:hover{padding: 5px;}
+
+.posicion-ciculo{
+    padding-top: 10px;
+    margin-bottom: 60px;}
+
+
+                                    /* footer */
+.footer-color{background: #1c0f0a;}
+
+.logo-inferior{
+    width: 120px;
+    height: 120px;
+    margin-top: 25px;
+    margin-bottom: 20px;}
+
+.redes-sociales{margin-top: 30px;}
+
+.iconos-sociales{
+    font-size: 1.4rem;
+    margin-top: 10px;
+    text-align: space-around;}
+
+.primer-texto-columna{margin-top: 30px;}
+
+.barra-separadora{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    border-bottom: 1px solid #fff;}
+
+.footer-legal{margin-top: 15px}
+

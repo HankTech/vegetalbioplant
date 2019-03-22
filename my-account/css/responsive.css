@@ -1,0 +1,56 @@
+@media (min-width: 320px) and (max-width:575px) {
+  .logo{
+      height: 110px;
+      width: 110px;}
+  .size-texto{font-size: 14px;}
+  .circulo{
+      height: 100px;
+      width: 100px;}
+  .texto-de-slider{padding: 20px 10px;}
+
+  .control-label{
+    width: 50px;
+    height: 20px;
+    font-size:15px;}
+}
+
+
+
+@media (min-width: 576px) and (max-width:767px) {
+  .logo{
+      height: 150px;
+      width: 150px;}
+
+  .size-texto{font-size: 18px;}
+  .circulo{
+      height: 120px;
+      width: 120px;}
+
+  .texto-de-slider{padding: 20px 10px;}
+
+  .control-label{
+    width: 50px;
+    height: 20px;
+    font-size:15px;}
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .size-texto-barra-sup1{font-size: 11px;}
+    .size-texto-barra-sup2{font-size: 11px;}
+    .logo{
+        height: 140px;
+        width: 140px;}
+
+.size-texto{font-size: 15px;}
+.circulo{
+    height: 110px;
+    width: 110px;}
+
+.texto-de-slider{padding: 20px 10px;}
+  }
+  
+@media (min-width: 992px) {
+    html {
+      font-size: .8rem;
+    }
+  }

@@ -1,0 +1,45 @@
+/* styles my-accounts */
+h2{
+    color: #4a3023;
+    border-bottom: 1px solid #aea870;
+    padding-bottom: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.formulario{
+    border: 1px solid #d3ced2;
+    padding: 20px;
+    margin: 2em 0;
+    text-align: left;
+    border-radius: 5px;    
+}
+
+.registrate-texto{
+    margin: 10px;
+    font-size: 15px;
+    display: flex   
+}
+
+.control-label{
+    width: 50px;
+    height: 20px;
+    font-size:20px;
+}
+
+#captcha{
+     transform:         scale(0.84);
+   }
+
+
+input[type="text"], input[type="password"], input[type="email"]{
+    box-sizing: border-box;
+    height: 50px;
+    width: 95%;
+    margin: 10px;
+    outline: 0;
+    
+    padding: 5px 5px;
+    text-align: start;
+}
+
